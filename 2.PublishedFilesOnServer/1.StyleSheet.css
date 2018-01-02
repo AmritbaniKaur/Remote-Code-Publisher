@@ -1,0 +1,91 @@
+﻿body 
+{
+    background-color: floralwhite;
+    color: sienna;
+    font-family: Calibri;
+    margin-left: 20px;
+    height: auto;
+    width: auto;
+}
+::selection
+{
+    color: floralwhite;
+    background-color: lightcoral;
+}
+
+#menuBar 
+{
+    font-size: 15px;
+    color: palevioletred;
+	background-color: #FFE386;
+}
+
+#titleHeader
+{
+    font-size: 15px;
+    font-weight:bold;
+    color: lightcoral;
+}
+#matter
+{
+    background-color: floralwhite;
+    color: sienna;
+    font-family: Calibri;
+    margin-left: 20px;
+    height: auto;
+    width: auto;
+}
+
+li.heading
+{
+    font-size:20px;
+    font-weight:bold;
+    color:lightcoral;
+}
+li.content
+{
+    color: sienna;
+    font-weight:normal;
+    font-size:medium;
+}
+li.withBorder
+{
+    border-style:solid;
+    border-width:thin;
+    border-color:sienna;
+    margin:10px;
+    padding:10px;
+}
+ul.none 
+{
+    list-style-type:none;
+}
+a:link {
+    color: palevioletred;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: palevioletred;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a.menuBar:hover
+{
+    padding: 5px 5px 5px 5px;
+    border: 1px outset sienna;
+    border-radius: 20px;
+    background-color: lightcoral;
+}
+
+a:hover {
+    color: brown;
+    text-decoration: solid;
+    padding: 2px 2px 2px 2px;
+}
+a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}

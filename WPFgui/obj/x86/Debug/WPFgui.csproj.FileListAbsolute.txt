@@ -1,0 +1,32 @@
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\bin\x86\Debug\WPFgui.exe.config
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\bin\x86\Debug\WPFgui.exe
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\bin\x86\Debug\WPFgui.pdb
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\bin\x86\Debug\CLIShim.dll
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\bin\x86\Debug\CLIShim.pdb
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\obj\x86\Debug\WPFgui.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\obj\x86\Debug\MainWindow.g.cs
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\obj\x86\Debug\App.g.cs
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\obj\x86\Debug\WPFgui_MarkupCompile.cache
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\obj\x86\Debug\WPFgui_MarkupCompile.lref
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\obj\x86\Debug\MainWindow.baml
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\obj\x86\Debug\WPFgui.g.resources
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\obj\x86\Debug\WPFgui.Properties.Resources.resources
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\obj\x86\Debug\WPFgui.csproj.GenerateResource.Cache
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\obj\x86\Debug\WPFgui.exe
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\CSharpCliShim-WPF-App\WPFgui\obj\x86\Debug\WPFgui.pdb
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\obj\x86\Debug\WPFgui.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\obj\x86\Debug\MainWindow.g.cs
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\obj\x86\Debug\App.g.cs
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\obj\x86\Debug\WPFgui_MarkupCompile.cache
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\obj\x86\Debug\WPFgui_MarkupCompile.lref
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\bin\x86\Debug\WPFgui.exe.config
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\bin\x86\Debug\WPFgui.exe
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\bin\x86\Debug\WPFgui.pdb
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\bin\x86\Debug\CLIShim.dll
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\bin\x86\Debug\CLIShim.pdb
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\obj\x86\Debug\MainWindow.baml
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\obj\x86\Debug\WPFgui.g.resources
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\obj\x86\Debug\WPFgui.Properties.Resources.resources
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\obj\x86\Debug\WPFgui.csproj.GenerateResource.Cache
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\obj\x86\Debug\WPFgui.exe
+C:\Users\amrit\Documents\Visual Studio 2015\OOD Codes\Project 4\1. Submission Copy\Project4_CSE687_Amritbani\Project4\CodeAnalyzerEx\WPFgui\obj\x86\Debug\WPFgui.pdb
