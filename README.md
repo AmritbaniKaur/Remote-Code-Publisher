@@ -1,4 +1,3 @@
-============================================================================================================================================
 
 Remote Repository:
 ------------------
@@ -34,4 +33,4 @@ Req 11: (optional) have the publisher accept a path, on the commandline, to a vi
 		from the server by supplying a url to that path when you start a browser. This works only if IIS is setup on the machine and make the 
 		path a virtual directory.
 
-============================================================================================================================================
+----------------------------------------------------------------------------------
